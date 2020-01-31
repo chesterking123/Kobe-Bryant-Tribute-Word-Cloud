@@ -1,3 +1,7 @@
 # Kobe-Bryant-Tribute-Word-Cloud
 
-In this project i have scraped tweets that were tweeted after the tragic death of Kobe Bryant with #kobe and made a word cloud out of those tweets and then I masked the word cloud on an image (check Kobe.png).
+<p>✓ Scraped tweets with #kobe.
+<p>✓ Filter out the punctuations and stop words from the collected tweets.
+<p>✓ Mask a clear background Kobe png image.
+<p>✓ Make a word cloud out of the filtered words.
+<p>✓ Merge the masked image with the word cloud and re colorize it.
